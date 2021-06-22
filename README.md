@@ -16,4 +16,4 @@ Here are three little images about how looks like the navbar
 ### Menu
 ![](./assets/img/responsive-mobile-menu.png)
 
-Let me know what you think about that and if you think that this little stuffs can help to your company, contact me at [email](mailto:mariopaciosmartinez@gmail.com)
+Let me know what you think about that and if you think that this little stuffs can help your company, contact me at [email](mailto:mariopaciosmartinez@gmail.com)
