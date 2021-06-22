@@ -26,7 +26,7 @@ Let me know what you think about that and if you think that this little stuffs c
       country: 'Spain',
       zipCode: 24390,
       phone: ['personal', 'home']
-    }
+    },
     hobbys: ['web design', 'motorsports', 'simracing', 'same as everyone'],
     markdown: 'I like this thing'
   }
